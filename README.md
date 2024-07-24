@@ -12,21 +12,16 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="left">
-      - 🌱 I’m currently learning **OOP with Java**
+      - 🌱 I’m currently learning Any thing Interesting.
 
       - 💬 Ask me about **Reactjs, NextJs, NodeJs, ExpressJs**
 
       - 📫 How to reach me **FuadJemal35@gmail.com**
 
-      - 📄 Know about my experiences [here](https://aiapply.co/r/66a05f3758c2d)
+      - 📄 Know about my experiences [[here]()](https://aiapply.co/r/66a05f3758c2d)
 
       - ⚡ Fun fact **I think I am a fast learner.**
-    </td>
-    <td width="50%" align="center">
-      <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-    </td>
-  </tr>
-</table>
+   
 
 ---
 
